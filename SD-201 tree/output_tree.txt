@@ -1,0 +1,15 @@
+0[X1 < 1], gini = 0.458719, root
+1 [X2 < 3], gini = 0.374845, intermidiate
+2  [X3 < 2], gini = 0.100293, intermidiate
+3   class 1, leaf
+3   class 1, leaf
+2  [X3 < 2], gini = 0.450893, intermidiate
+3   class 1, leaf
+3   class 0, leaf
+1 [X2 < 2], gini = 0.301107, intermidiate
+2  [X3 < 1], gini = 0.465601, intermidiate
+3   class 0, leaf
+3   class 0, leaf
+2  [X3 < 1], gini = 0.239809, intermidiate
+3   class 0, leaf
+3   class 0, leaf
